@@ -1,3 +1,5 @@
+![Shakshi Patel — Web Development, Applied AI, Digital Productivity](./assets/shakshi-banner-template-person.png)
+
 # Shakshi Patel
 
 **Early-career technology professional | Web Projects | AI & Digital Productivity**
